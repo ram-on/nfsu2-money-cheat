@@ -1,6 +1,10 @@
 # nfsu2-money-cheat
 Money cheat for "Need For Speed Underground 2" -- allows you to edit/change money within your NFSU2 save file.
 
+## Download EXE
+
+Link:  https://github.com/ram-on/nfsu2-money-cheat/releases/download/v1.0/nfsu2-money-cheat.exe
+
 ## Examples
 
 ### View Money
