@@ -1,7 +1,7 @@
 build:
 	go build nfsu2-money-cheat.go
 
-build-win:
+build-win32:
 	GOOS=windows GOARCH=386 go build nfsu2-money-cheat.go
 
 clean:
