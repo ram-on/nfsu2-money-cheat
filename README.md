@@ -3,24 +3,26 @@ Money cheat for "Need For Speed Underground 2" -- allows you to edit/change mone
 
 ## Download EXE
 
-Download Link:  https://github.com/ram-on/nfsu2-money-cheat/releases/download/v2.0/nfsu2-money-cheat.exe
+Download link:  https://github.com/ram-on/nfsu2-money-cheat/releases/download/v2.0/nfsu2-money-cheat.exe
 
-## Examples
+## Usage
 
 ### Text User Interface
 
-To launch the program in text user interface simply double click the `nfsu2-money-cheat.exe`.
-User will then be asked to select the save file and to specify the money amount that will be
+Just double click the `nfsu2-money-cheat.exe` file to launch the program in text user interface.
+User will then be asked to select the NFSU2 save file and to specify the money amount that will be
 stored within the save file.
 
-### View Money
+### Command Line
+
+#### View Money
 To view the curreny money amount stored within your save file:
 
 ```
 nfsu2-money-cheat.exe info -f "%LOCALAPPDATA%\NFS Underground 2\MySaveFile"
 ```
 
-### Edit Money
+#### Edit Money
 To edit/change the money amount stored to "50000" within your save file:
 
 ```
